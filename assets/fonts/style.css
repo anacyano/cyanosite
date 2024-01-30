@@ -1,0 +1,10 @@
+@font-face {
+   font-family: 'CooperHewitt-Book';
+   font-display: swap;
+   src: url('CooperHewitt-Book/font.ttf');
+}
+@font-face {
+   font-family: 'CooperHewitt-Medium';
+   font-display: swap;
+   src: url('CooperHewitt-Medium/font.ttf');
+}
